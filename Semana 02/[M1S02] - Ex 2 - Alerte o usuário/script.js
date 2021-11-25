@@ -1,0 +1,1 @@
+window.alert("[M1S02] - Ex 2 - Alerte o usuário");
